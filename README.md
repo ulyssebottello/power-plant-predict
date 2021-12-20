@@ -1,6 +1,5 @@
 # Predict the electrical energy output of a Combined Cycle Power Plant 🌱
 
-# Data Science Salary Estimator: Project Overview 
 * Final project from Duke University course "Machine Learning Foundations for Product Managers".
 * Created a tool that estimates the output of a power plant (MAPE > 1%).
 * Used almost 10k rows dataset and 4 features.
